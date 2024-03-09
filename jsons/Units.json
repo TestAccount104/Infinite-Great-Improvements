@@ -34,16 +34,16 @@
 	{
 		"name": "Great Prophet",
 		"unitType": "Civilian",
-		"uniques": ["Can instantly construct a [Holy site] improvement <[999] times> <if it hasn't used other actions yet> <after which this unit is consumed>",
-			"Can [Spread Religion] [10] times",
+		"uniques": ["Can instantly construct a [Holy site] improvement <[9999999] times> <if it hasn't used other actions yet> <after which this unit is consumed>",
+			"Can [Spread Religion] [9999999] times",
 			"Removes other religions when spreading religion",
 			"May found a religion",
 			"May enhance a religion",
-			"May enter foreign tiles without open borders", "[+9999999] Sight", "Great Person - [Faith]",
+			"May enter foreign tiles without open borders", "[+100] Sight", "Great Person - [Faith]",
 			"Unbuildable", "Religious Unit", "Hidden when religion is disabled",
 			"Takes your religion over the one in their birth city"],
 		"movement": 9999999,
-		"religiousStrength": 1000
+		"religiousStrength": 9999999
 	},
 	{
 		"name": "Great General",
